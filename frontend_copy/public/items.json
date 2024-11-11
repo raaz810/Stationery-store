@@ -1,0 +1,500 @@
+[
+    {
+        "title": "Cello Finegrip Ball Pen",
+        "description": "Smooth-writing ball pen for everyday use.",
+        "category": "pen",
+        "trending": true,
+        "coverImage": "cello-finegrip.png",
+        "oldPrice": 10,
+        "newPrice": 8
+    },
+    {
+        "title": "Camlin Kokuyo Brush Pens",
+        "description": "Vibrant brush pens for coloring and illustrations.",
+        "category": "pen",
+        "trending": true,
+        "coverImage": "camlin-brushpen.png",
+        "oldPrice": 200,
+        "newPrice": 180
+    },
+    {
+        
+        "title": "Classmate Pulse Notebook",
+        "description": "Spiral-bound notebook with ruled pages.",
+        "category": "notebook",
+        "trending": false,
+        "coverImage": "classmate-pulse.png",
+        "oldPrice": 80,
+        "newPrice": 75
+    },
+    {
+       
+        "title": "Luxor Highlighter Set",
+        "description": "Pack of highlighters with bright, fade-resistant ink.",
+        "category": "highlighter",
+        "trending": true,
+        "coverImage": "luxor-highlighter.png",
+        "oldPrice": 150,
+        "newPrice": 140
+    },
+    {
+        
+        "title": "Pidilite Fevicol MR Adhesive",
+        "description": "Multi-purpose adhesive for school and office use.",
+        "category": "adhesive",
+        "trending": true,
+        "coverImage": "fevicol-mr.png",
+        "oldPrice": 25,
+        "newPrice": 20
+    },
+    {
+        
+        "title": "Navneet Youva Long Notebook",
+        "description": "Ruled long notebook for notes and assignments.",
+        "category": "notebook",
+        "trending": false,
+        "coverImage": "navneet-youva.png",
+        "oldPrice": 50,
+        "newPrice": 45
+    },
+    {
+        
+        "title": "Reynolds Trimax Gel Pen",
+        "description": "Smooth-flowing gel pen with refillable ink.",
+        "category": "pen",
+        "trending": true,
+        "coverImage": "reynolds-trimax.png",
+        "oldPrice": 60,
+        "newPrice": 55
+    },
+    {
+        
+        "title": "Apsara Platinum Extra Dark Pencils",
+        "description": "Extra dark pencils ideal for exams and rough work.",
+        "category": "pencil",
+        "trending": true,
+        "coverImage": "apsara-platinum.png",
+        "oldPrice": 50,
+        "newPrice": 45
+    },
+    {
+        
+        "title": "Nataraj 621 HB Pencil",
+        "description": "Durable HB pencils for daily writing tasks.",
+        "category": "pencil",
+        "trending": false,
+        "coverImage": "nataraj-621.png",
+        "oldPrice": 5,
+        "newPrice": 4
+    },
+    {
+        
+        "title": "Doms X1 Pencil Box",
+        "description": "Complete pencil box with pencils, sharpener, and eraser.",
+        "category": "pencil",
+        "trending": false,
+        "coverImage": "doms-x1.png",
+        "oldPrice": 40,
+        "newPrice": 35
+    },
+    {
+        
+        "title": "Faber-Castell Connector Pens",
+        "description": "Unique pens that can be connected to form creative shapes.",
+        "category": "pen",
+        "trending": true,
+        "coverImage": "faber-connector.png",
+        "oldPrice": 100,
+        "newPrice": 80
+    },
+    {
+        
+        "title": "Camlin Permanent Marker",
+        "description": "Waterproof and quick-drying permanent marker.",
+        "category": "marker",
+        "trending": false,
+        "coverImage": "camlin-marker.png",
+        "oldPrice": 40,
+        "newPrice": 35
+    },
+    {
+        
+        "title": "Classmate Colour Crew Crayons",
+        "description": "Vibrant crayons for young artists.",
+        "category": "crayons",
+        "trending": false,
+        "coverImage": "classmate-crayons.png",
+        "oldPrice": 50,
+        "newPrice": 45
+    },
+    {
+        
+        "title": "Navneet Youva Geometry Box",
+        "description": "Durable geometry box with all essential tools.",
+        "category": "stationery kit",
+        "trending": true,
+        "coverImage": "navneet-geometry.png",
+        "oldPrice": 120,
+        "newPrice": 110
+    },
+    {
+        
+        "title": "Pidilite Fevicryl Acrylic Colors",
+        "description": "Bright and durable acrylic colors for various surfaces.",
+        "category": "paint",
+        "trending": false,
+        "coverImage": "fevicryl-acrylic.png",
+        "oldPrice": 250,
+        "newPrice": 230
+    },
+    {
+        
+        "title": "Faber-Castell Dust-Free Eraser",
+        "description": "Soft and dust-free eraser for clean erasing.",
+        "category": "eraser",
+        "trending": true,
+        "coverImage": "faber-eraser.png",
+        "oldPrice": 10,
+        "newPrice": 8
+    },
+    {
+        
+        "title": "Classmate Marvel Avengers Notebook",
+        "description": "Notebook with Marvel Avengers cover design.",
+        "category": "notebook",
+        "trending": true,
+        "coverImage": "classmate-avengers.png",
+        "oldPrice": 100,
+        "newPrice": 90
+    },
+    {
+        
+        "title": "Reynolds Jetter Gel Pen",
+        "description": "Premium gel pen for smooth writing.",
+        "category": "pen",
+        "trending": true,
+        "coverImage": "reynolds-jetter.png",
+        "oldPrice": 20,
+        "newPrice": 18
+    },
+    {
+        
+        "title": "Doms Geomax Geometry Box",
+        "description": "Complete geometry set with ruler, protractor, and compass.",
+        "category": "stationery kit",
+        "trending": false,
+        "coverImage": "doms-geomax.png",
+        "oldPrice": 80,
+        "newPrice": 75
+    },
+    {
+        
+        "title": "Pidilite M-Seal Epoxy Compound",
+        "description": "Versatile epoxy for sealing, joining, and repairing.",
+        "category": "adhesive",
+        "trending": true,
+        "coverImage": "pidilite-mseal.png",
+        "oldPrice": 25,
+        "newPrice": 22
+    },
+    {
+        
+        "title": "Classmate Graph Book",
+        "description": "Graph book ideal for mathematics and science work.",
+        "category": "notebook",
+        "trending": false,
+        "coverImage": "classmate-graph.png",
+        "oldPrice": 50,
+        "newPrice": 45
+    },
+    {
+        
+        "title": "Camlin Artist Watercolors",
+        "description": "Rich watercolors for artists and hobbyists.",
+        "category": "paint",
+        "trending": true,
+        "coverImage": "camlin-watercolors.png",
+        "oldPrice": 150,
+        "newPrice": 140
+    },
+    {
+        
+        "title": "Luxor Whiteboard Marker Set",
+        "description": "Set of assorted color whiteboard markers.",
+        "category": "marker",
+        "trending": true,
+        "coverImage": "luxor-whiteboard.png",
+        "oldPrice": 120,
+        "newPrice": 110
+    },
+    {
+        
+        "title": "Navneet Youva Project Paper",
+        "description": "High-quality project papers for assignments.",
+        "category": "paper",
+        "trending": false,
+        "coverImage": "youva-project-paper.png",
+        "oldPrice": 40,
+        "newPrice": 35
+    },
+    {
+        
+        "title": "Apsara Triangular Pencils",
+        "description": "Ergonomically designed pencils for better grip.",
+        "category": "pencil",
+        "trending": true,
+        "coverImage": "apsara-triangular.png",
+        "oldPrice": 15,
+        "newPrice": 13
+    },
+    {
+        
+        "title": "Camlin Acrylic Colors",
+        "description": "Acrylic colors suitable for multiple surfaces.",
+        "category": "paint",
+        "trending": true,
+        "coverImage": "camlin-acrylic.png",
+        "oldPrice": 220,
+        "newPrice": 210
+    },
+    {
+        
+        "title": "Faber-Castell Erasable Highlighter",
+        "description": "Highlighter that can be erased with ease.",
+        "category": "highlighter",
+        "trending": false,
+        "coverImage": "faber-erasable.png",
+        "oldPrice": 80,
+        "newPrice": 75
+    },
+    {
+        
+        "title": "Nataraj Wax Crayons",
+        "description": "Vibrant wax crayons for kids.",
+        "category": "crayons",
+        "trending": false,
+        "coverImage": "nataraj-wax-crayons.png",
+        "oldPrice": 25,
+        "newPrice": 20
+    },
+    {
+        
+        "title": "Classmate Practical Book",
+        "description": "Practical notebook with ruled and blank pages.",
+        "category": "notebook",
+        "trending": false,
+        "coverImage": "classmate-practical.png",
+        "oldPrice": 60,
+        "newPrice": 55
+    },
+    {
+        
+        "title": "Pidilite Fevibond Adhesive",
+        "description": "Ideal adhesive for leather, rubber, and more.",
+        "category": "adhesive",
+        "trending": true,
+        "coverImage": "pidilite-fevibond.png",
+        "oldPrice": 40,
+        "newPrice": 35
+    },
+    {
+        
+        "title": "Reynolds Racer Gel Pen",
+        "description": "Smooth and long-lasting gel pen.",
+        "category": "pen",
+        "trending": true,
+        "coverImage": "reynolds-racer.png",
+        "oldPrice": 15,
+        "newPrice": 12
+    },
+    {
+        
+        "title": "Luxor Mechanical Pencils",
+        "description": "2B pencils suitable for shading and dark writing.",
+        "category": "pencil",
+        "trending": true,
+        "coverImage": "luxor-2b.png",
+        "oldPrice": 30,
+        "newPrice": 25
+    },
+    {
+        
+        "title": "Classmate Coloured Paper Pack",
+        "description": "Assorted colored paper for art and craft.",
+        "category": "paper",
+        "trending": false,
+        "coverImage": "classmate-colored-paper.png",
+        "oldPrice": 70,
+        "newPrice": 65
+    },
+    {
+       
+        "title": "Faber-Castell Gel Crayons",
+        "description": "Smooth gel crayons with twist mechanism.",
+        "category": "crayons",
+        "trending": true,
+        "coverImage": "faber-gel-crayons.png",
+        "oldPrice": 200,
+        "newPrice": 180
+    },
+    {
+        
+        "title": "Doms Extra Long Ruler",
+        "description": "30cm ruler for precise measurements.",
+        "category": "ruler",
+        "trending": true,
+        "coverImage": "doms-ruler.png",
+        "oldPrice": 20,
+        "newPrice": 15
+    },
+    {
+        
+        "title": "Navneet Youva Scrap Book",
+        "description": "High-quality scrap book for projects.",
+        "category": "notebook",
+        "trending": true,
+        "coverImage": "youva-scrapbook.png",
+        "oldPrice": 100,
+        "newPrice": 90
+    },
+    {
+        
+        "title": "Camlin Calligraphy Set",
+        "description": "Set of calligraphy pens for decorative writing.",
+        "category": "pen",
+        "trending": false,
+        "coverImage": "camlin-calligraphy.png",
+        "oldPrice": 250,
+        "newPrice": 240
+    },
+    {
+        
+        "title": "Luxor Pilot V5 Pen",
+        "description": "Smooth-writing pen with waterproof ink.",
+        "category": "pen",
+        "trending": true,
+        "coverImage": "luxor-v5.png",
+        "oldPrice": 70,
+        "newPrice": 65
+    },
+    {
+        
+        "title": "Classmate Premium Notebook",
+        "description": "Premium notebook with high-quality pages.",
+        "category": "notebook",
+        "trending": true,
+        "coverImage": "classmate-premium.png",
+        "oldPrice": 90,
+        "newPrice": 80
+    },
+    {
+        
+        "title": "Pidilite M-Seal Phataphat",
+        "description": "Quick-setting epoxy compound for repairs.",
+        "category": "adhesive",
+        "trending": false,
+        "coverImage": "mseal-phataphat.png",
+        "oldPrice": 30,
+        "newPrice": 28
+    },
+    {
+        
+        "title": "Nataraj Pencils with Sharpener",
+        "description": "Pack of HB pencils with a sharpener.",
+        "category": "pencil",
+        "trending": false,
+        "coverImage": "nataraj-sharpener.png",
+        "oldPrice": 20,
+        "newPrice": 18
+    },
+    {
+        
+        "title": "Faber-Castell 24 Water Color Pencils",
+        "description": "Water-soluble colored pencils for art.",
+        "category": "pencil",
+        "trending": true,
+        "coverImage": "faber-watercolor.png",
+        "oldPrice": 300,
+        "newPrice": 280
+    },
+    {
+        
+        "title": "Classmate Coloured Sketch Pens",
+        "description": "Bright colors for sketching and drawing.",
+        "category": "pen",
+        "trending": false,
+        "coverImage": "classmate-sketchpen.png",
+        "oldPrice": 100,
+        "newPrice": 90
+    },
+    {
+        
+        "title": "Apsara Long Point Sharpener",
+        "description": "Sharpener for long and fine pencil points.",
+        "category": "sharpener",
+        "trending": true,
+        "coverImage": "apsara-sharpener.png",
+        "oldPrice": 15,
+        "newPrice": 10
+    },
+    {
+        
+        "title": "Pidilite Fevicryl Fabric Glue",
+        "description": "Strong adhesive specially for fabric.",
+        "category": "adhesive",
+        "trending": false,
+        "coverImage": "fevicryl-fabric.png",
+        "oldPrice": 70,
+        "newPrice": 65
+    },
+    {
+        
+        "title": "Luxor Permanent Marker",
+        "description": "Permanent marker with durable ink.",
+        "category": "marker",
+        "trending": false,
+        "coverImage": "luxor-permanent.png",
+        "oldPrice": 25,
+        "newPrice": 22
+    },
+    {
+        
+        "title": "Doms Twistable Crayons",
+        "description": "Twist-up crayons for a mess-free coloring experience.",
+        "category": "crayons",
+        "trending": true,
+        "coverImage": "doms-twistable.png",
+        "oldPrice": 150,
+        "newPrice": 135
+    },
+    {
+        
+        "title": "Camlin Ink Pen",
+        "description": "Classic ink pen for smooth writing.",
+        "category": "pen",
+        "trending": false,
+        "coverImage": "camlin-inkpen.png",
+        "oldPrice": 50,
+        "newPrice": 45
+    },
+    {
+        
+        "title": "Classmate Composition Notebook",
+        "description": "Notebook with blank and ruled pages.",
+        "category": "notebook",
+        "trending": true,
+        "coverImage": "classmate-composition.png",
+        "oldPrice": 75,
+        "newPrice": 70
+    },
+    {
+        
+        "title": "Reynolds Click Ball Pen",
+        "description": "Retractable ball pen for smooth writing.",
+        "category": "pen",
+        "trending": true,
+        "coverImage": "reynolds-click.png",
+        "oldPrice": 20,
+        "newPrice": 18
+    }
+]

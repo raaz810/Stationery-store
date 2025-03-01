@@ -2,7 +2,7 @@
 
 Skribb is a **full-stack web application** built for **Sri Balaji Books & Stationery Xerox** in **Visakhapatnam**. This platform allows customers to browse and order stationery products online and pick them up in-store, eliminating long queues and streamlining the purchasing process.  
 
-##Link - https://skribb.vercel.app
+## Link - https://skribb.vercel.app
 
 ## 🚀 Features  
 ✅ **Browse Products** – Explore a variety of stationery items.  

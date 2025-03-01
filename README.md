@@ -19,7 +19,7 @@ Skribb is a **full-stack web application** built for **Sri Balaji Books & Statio
 - **Database:** MongoDB (Mongoose), Firebase Authentication  
 - **State Management:** Redux Toolkit  
 - **UI Components & Libraries:** Swiper.js (Carousels), React Router (Navigation)  
-- **Deployment:** Vercel (Frontend), Render (Backend)  
+- **Deployment:** Vercel  
 
 ## 📍 How It Works  
 1️⃣ **Browse Products** – Users can explore available stationery items.  

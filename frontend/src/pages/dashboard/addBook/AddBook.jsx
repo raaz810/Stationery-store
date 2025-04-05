@@ -75,10 +75,11 @@ const AddBook = () => {
           options={[
             { value: '', label: 'Choose A Category' },
             { value: 'penandpencil', label: 'Pen & Pencil' },
-            { value: 'book', label: 'Book' },
-            { value: 'adhesive', label: 'Adhesive or Gum' },
             { value: 'box', label: 'Stationary Kit or Boxes' },
+            { value: 'adhesive', label: 'Adhesive or Gum' },
             { value: 'colors', label: 'Colours' },
+            { value: 'register', label: 'Register' },
+            { value: 'book', label: 'Book' },
             // Add more options as needed
           ]}
           register={register}

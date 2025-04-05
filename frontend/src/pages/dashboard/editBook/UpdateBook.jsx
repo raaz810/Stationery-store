@@ -63,7 +63,7 @@ const UpdateBook = () => {
   if (isError) return <div>Error fetching book data</div>
   return (
     <div className="max-w-lg mx-auto md:p-6 p-3 bg-white rounded-lg shadow-md">
-      <h2 className="text-2xl font-bold text-gray-800 mb-4">Update Book</h2>
+      <h2 className="text-2xl font-bold text-gray-800 mb-4">Update Items</h2>
 
       <form onSubmit={handleSubmit(onSubmit)}>
         <InputField
@@ -86,11 +86,12 @@ const UpdateBook = () => {
           name="category"
           options={[
             { value: '', label: 'Choose A Category' },
-            { value: 'business', label: 'Business' },
-            { value: 'technology', label: 'Technology' },
-            { value: 'fiction', label: 'Fiction' },
-            { value: 'horror', label: 'Horror' },
-            { value: 'adventure', label: 'Adventure' },
+            { value: 'penandpencil', label: 'Pen & Pencil' },
+            { value: 'box', label: 'Stationary Kit or Boxes' },
+            { value: 'adhesive', label: 'Adhesive or Gum' },
+            { value: 'colors', label: 'Colours' },
+            { value: 'register', label: 'Register' },
+            { value: 'book', label: 'Book' },
           ]}
           register={register}
         />

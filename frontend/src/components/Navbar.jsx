@@ -38,7 +38,7 @@ const Navbar = () => {
                         {/* left side */}
                         <Link to="/"><FaHome className='size-6' /></Link>
                         <h1 className="title text-5xl font-bold text-grey-600 hover:text-blue-600 transition-all cursor-pointer">
-                            Skribb
+                        Stationery Haven 📚
                         </h1>
                     </div>
 

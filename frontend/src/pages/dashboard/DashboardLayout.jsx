@@ -4,7 +4,7 @@ import { HiViewGridAdd } from "react-icons/hi";
 import { MdOutlineManageHistory } from "react-icons/md";
 import { FaBook, FaPlusCircle, FaBoxOpen } from 'react-icons/fa';
 import { FaHome } from "react-icons/fa";
-import avatarImg from "../../assets/avatar.png";
+//import avatarImg from "../../r4.jpg";
 
 const DashboardLayout = () => {
   const navigate = useNavigate();
@@ -20,10 +20,10 @@ const DashboardLayout = () => {
         <header className="flex items-center justify-between h-16 px-6 sm:px-10 bg-white shadow-md">
 
           <div className="flex items-center space-x-3">
-            <span className="font-semibold text-lg">Srinivas Sailada</span>
+            <span className="font-semibold text-lg">Raj Kumar</span>
             <span className="text-sm text-gray-600">Owner</span>
             <div className="w-10 h-10 rounded-full overflow-hidden">
-              <img src={avatarImg} alt="User Profile" className="w-full h-full object-cover" />
+              <img src="./r4.jpg" alt="User Profile" className="w-full h-full object-cover" />
             </div>
             <button onClick={handleLogout} className="text-gray-400 hover:text-gray-600 p-2">
               <svg aria-hidden="true" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="h-6 w-6">

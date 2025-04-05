@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FiShoppingCart } from "react-icons/fi";
 import { Link } from "react-router-dom";
 import { IoArrowBackOutline } from "react-icons/io5";
-import { getImgUrl } from '../../utils/getImgUrl';
+import { getImgUrl } from "../../utils/getImgUrl";
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../../redux/features/cart/cartSlice';
 import { useFetchAllBooksQuery } from '../../redux/features/books/booksApi';
@@ -26,7 +26,7 @@ const AllBooks = () => {
     const filteredBooks = selectedCategory === 'all'
         ? books
         : books.filter((book) => book.category === selectedCategory);
-
+        console.log(books);
     if (isLoading) return <div>Loading...</div>;
     if (isError) return <div>Error loading books</div>;
 
@@ -52,15 +52,16 @@ const AllBooks = () => {
                     <option value="penandpencil">Pen and Pencil</option>
                     <option value="colors">Colors</option>
                     <option value="adhesive">Adhesive or Gum</option>
-                    <option value="book">Book</option>
                     <option value="box">Box</option>
+                    <option value="book">Register</option>
+                    <option value="book">Book</option>
                 </select>
             </div>
 
             {/* Display filtered books */}
             <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6'>
                 {filteredBooks.map((book) => (
-                    <div key={book.id} className='bg-white shadow-lg rounded-lg overflow-hidden'>
+                    <div key={book._id} className='bg-white shadow-lg rounded-lg overflow-hidden'>
                         <div className='w-full'>
                             <Link to={`/books/${book._id}`}>
                                 <img

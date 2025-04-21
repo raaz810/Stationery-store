@@ -26,7 +26,7 @@ const AllBooks = () => {
     const filteredBooks = selectedCategory === 'all'
         ? books
         : books.filter((book) => book.category === selectedCategory);
-        console.log(books);
+       // console.log(books);
     if (isLoading) return <div>Loading...</div>;
     if (isError) return <div>Error loading books</div>;
 
@@ -49,12 +49,17 @@ const AllBooks = () => {
                     className="border border-gray-300 rounded-md px-3 py-2"
                 >
                     <option value="all">All</option>
-                    <option value="penandpencil">Pen and Pencil</option>
-                    <option value="colors">Colors</option>
-                    <option value="adhesive">Adhesive or Gum</option>
-                    <option value="box">Box</option>
-                    <option value="book">Register</option>
                     <option value="book">Book</option>
+                    <option value="notebook">Register</option>
+                    <option value="pen">Pen</option>
+                    <option value="highlighter">Highlighter</option>
+                    <option value="crayons">Colors</option>
+                    <option value="adhesive">Adhesive or Gum</option>
+                    <option value="pencil">Pencil</option>
+                    <option value="eraser">Eraser</option>
+                    <option value="sharpener">Sharpener</option>
+                    <option value="stationery kit">Box</option>
+                    <option value="paper">Paper</option>
                 </select>
             </div>
 
@@ -100,3 +105,6 @@ const AllBooks = () => {
 };
 
 export default AllBooks;
+
+
+

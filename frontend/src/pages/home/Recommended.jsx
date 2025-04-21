@@ -25,15 +25,15 @@ const Recommended = () => {
         setSelectedCategory(event.target.value);
     };
 
-    console.log(books);
-    console.log(selectedCategory)
+    // console.log(books);
+    // console.log(selectedCategory)
 
     // Filter books to show trending ones and by selected category
     const filteredBooks = selectedCategory === 'all'
         ? books.filter(book => book.trending === true)
         : books.filter(book => book.trending === true && book.category === selectedCategory);
 
-        console.log("Filtered Books", filteredBooks);
+       // console.log("Filtered Books", filteredBooks);
 
     if (isLoading) return <div>Loading...</div>;
     if (isError) return <div>Error loading books</div>;
@@ -60,12 +60,11 @@ const Recommended = () => {
                     className="border border-gray-300 rounded-md px-3 py-2"
                 >
                      <option value="all">All</option>
-                    <option value="penandpencil">Pen and Pencil</option>
-                    <option value="colors">Colors</option>
+                     <option value="notebook">Register</option>
+                    <option value="pen">Pen</option>
+                    <option value="crayons">Colors</option>
                     <option value="adhesive">Adhesive or Gum</option>
-                    <option value="box">Box</option>
-                    <option value="book">Register</option>
-                    <option value="book">Book</option>
+                    <option value="pencil">Pencil</option>
                 </select>
             </div>
             

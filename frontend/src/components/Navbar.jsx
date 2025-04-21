@@ -13,7 +13,7 @@ import { FaChevronDown } from 'react-icons/fa';
 
 const Navbar = () => {
     const cartItems = useSelector(state => state.cart.cartItems);
-    console.log(cartItems);
+    //console.log(cartItems);
 
     const [isDropdownOpen, setIsDropdownOpen] = useState(false);
     const { currentUser, logout } = useAuth()

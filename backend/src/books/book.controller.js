@@ -44,6 +44,7 @@ const UpdateBook = async (req, res) => {
     try {
         const {id} = req.params;
         const updatedBook =  await Book.findByIdAndUpdate(id, req.body, {new: true});
+        console.log(updatedBook)
         if(!updatedBook) {
             res.status(404).send({message: "Book is not Found!"})
         }

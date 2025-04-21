@@ -45,12 +45,12 @@ const TopSellers = () => {
                     className="border border-gray-300 rounded-md px-3 py-2"
                 >
                     <option value="all">All</option>
-                    <option value="penandpencil">Pen and Pencil</option>
-                    <option value="colors">Colors</option>
-                    <option value="adhesive">Adhesive or Gum</option>
-                    <option value="box">Box</option>
-                    <option value="book">Register</option>
                     <option value="book">Book</option>
+                    <option value="pen">Pen</option>
+                    <option value="crayons">Colors</option>
+                    <option value="adhesive">Adhesive or Gum</option>
+                    <option value="pencil">Pencil</option>
+                    <option value="stationery kit">Box</option>
                 </select>
             </div>
 

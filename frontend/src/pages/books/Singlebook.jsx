@@ -2,7 +2,7 @@ import React from 'react'
 import { FiShoppingCart } from "react-icons/fi"
 import { Link, useParams } from "react-router-dom"
 import { IoArrowBackOutline } from "react-icons/io5";
-import { getImgUrl } from '../../utils/getImgUrl';
+import { getImgUrl } from '../../utils/getImgURL';
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../../redux/features/cart/cartSlice';
 import { useFetchBookByIdQuery } from '../../redux/features/books/booksApi';

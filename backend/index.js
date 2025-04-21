@@ -74,8 +74,11 @@ const port = process.env.PORT || 8000;
 app.use(express.json());
 
 // ✅ CORS Configuration
-const allowedOrigins = [process.env.PRODUCTION_CLIENT_URL];
-
+const allowedOrigins = [
+    "http://localhost:5173",
+    "https://stationery-store-frontend.onrender.com",
+  ];
+  
 app.use(
   cors({
     origin: function (origin, callback) {

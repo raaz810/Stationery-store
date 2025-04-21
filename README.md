@@ -1,8 +1,8 @@
 # 📚 Online Stationery Ordering Platform  
 
-Skribb is a **full-stack web application** built for **Sri Balaji Books & Stationery Xerox** in **Visakhapatnam**. This platform allows customers to browse and order stationery products online and pick them up in-store, eliminating long queues and streamlining the purchasing process.  
+Stationery Haven is a **full-stack web application** built for **Saraswati Stationery & Books & Stationery Xerox** in **Bhopal**. This platform allows customers to browse and order stationery products online and pick them up in-store, eliminating long queues and streamlining the purchasing process.  
 
-## Link - https://skribb.vercel.app
+## Link - https://stationery-store-frontend.onrender.com
 
 ## 🚀 Features  
 ✅ **Browse Products** – Explore a variety of stationery items.  
@@ -26,8 +26,7 @@ Skribb is a **full-stack web application** built for **Sri Balaji Books & Statio
 2️⃣ **Add to Cart** – Select products and add them to the cart.  
 3️⃣ **Place Order** – Confirm the order and proceed to checkout.  
 4️⃣ **Visit Store** – Pick up the order at:  
-   📍 **Sri Balaji Books & Stationery Xerox**  
-   *20-1-44, Reliveedhi Ward-23, AVN College Polytechnic Gate, Visakhapatnam - 530001*  
+   📍 **Saraswati Stationery Books & Stationery Xerox**  
 
 
 

@@ -1,7 +1,7 @@
 import React from 'react'
 import { useGetOrderByEmailQuery } from '../../redux/features/orders/ordersApi'
 import { useAuth } from '../../context/AuthContext';
-import { getImgUrl } from '../../utils/getImgUrl';
+import { getImgUrl } from '../../utils/getImgURL';
 import { useFetchAllBooksQuery } from '../../redux/features/books/booksApi';
 import News from '../home/News';
 

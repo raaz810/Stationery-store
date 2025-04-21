@@ -1,7 +1,7 @@
 import React from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { Link } from 'react-router-dom';
-import { getImgUrl } from '../../utils/getImgUrl';
+import { getImgUrl } from '../../utils/getImgURL';
 import { clearCart, removeFromCart } from '../../redux/features/cart/cartSlice';
 import Swal from 'sweetalert2';
 import News from '../home/News';

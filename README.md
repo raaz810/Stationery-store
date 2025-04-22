@@ -19,7 +19,7 @@ Stationery Haven is a **full-stack web application** built for **Saraswati Stati
 - **Database:** MongoDB (Mongoose), Firebase Authentication  
 - **State Management:** Redux Toolkit  
 - **UI Components & Libraries:** Swiper.js (Carousels), React Router (Navigation)  
-- **Deployment:** Vercel  
+- **Deployment:** Render  
 
 ## 📍 How It Works  
 1️⃣ **Browse Products** – Users can explore available stationery items.  

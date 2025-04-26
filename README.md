@@ -30,37 +30,36 @@ Stationery Haven is a **full-stack web application** built for **Saraswati Stati
 ## ⚙️ How to Set Up and Run Stationery Haven Locally
 Follow these steps to run the project on your local machine:
 1. Clone the Repository
-   git clone https://github.com/your-username/stationery-haven.git
-   cd stationery-haven
+   -git clone https://github.com/raaz810/Stationery-store.git
+   -cd stationery-haven
 2. Install Frontend Dependencies
-   cd frontend
-   npm install
+   -cd frontend
+   -npm install
 3. Install Backend Dependencies 
-  cd ../backend
-  npm install
+  -cd ../backend
+  -npm install
 
-4. Set Up Environment Variables
-*. For Frontend:
+4. Set Up Environment Variables:
+   *. For Frontend:
 - Create a `.env.local` file inside the frontend folder.
 - Add necessary environment variables like Firebase API keys, etc.
-
-*. For Backend:
+   *. For Backend:
 - Create a `.env` file inside the backend folder.
 - Add environment variables like MongoDB URI, PORT, etc.
 
 5. Run Backend Server
-   cd backend
-   npm run dev
+   -cd backend
+   -npm run dev
 
 6. Run Frontend
-   In a new terminal:
-   cd frontend
-   npm run dev
+   -In a new terminal:
+   -cd frontend
+   -npm run dev
    
 7. All Set 🎉
-   Visit http://localhost:3000
-   Register or login
-   Start ordering!
+   -Visit http://localhost:3000
+   -Register or login
+   -Start ordering!
 
 🙌 Thank You for Visiting!
 
